@@ -16,3 +16,4 @@ It is a way of organizing and storing data in a way that enables efficient acces
 1. **Efficiency:** Aims to optimize operations.
 2. **Reusability:** Quality data structures can be reused across different software.
 3. **Correctness:** Mechanism to enforce criteria ensures correctness and consistency.
+4. **Scalability:** Continue to perform efficiently with varying amount of data.
