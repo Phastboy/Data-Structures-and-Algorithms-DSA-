@@ -24,3 +24,5 @@ It is a way of organizing and storing data in a way that enables efficient acces
 3. **Data Operations**: Data structures provide methods for performing operations on data, such as adding, removing, and updating data or groups of data.
 4. **Manage Data Volume**: They offer ways to handle varying amounts of data efficiently, accommodating growth and changes in data size.
 5. **Enhance Performance**: Data structures improve the efficiency of data operations, optimizing the performance of algorithms and applications.
+
+## Basic Terminologies
