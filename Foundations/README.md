@@ -14,3 +14,5 @@ It is a way of organizing and storing data in a way that enables efficient acces
 
 ## Goals of Data structures
 1. **Efficiency:** Aims to optimize operations.
+2. **Reusability:** Quality data structures can be reused across different software.
+3. **Correctness:** Mechanism to enforce criteria ensures correctness and consistency.
