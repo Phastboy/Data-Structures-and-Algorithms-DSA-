@@ -10,6 +10,7 @@ It is a way of organizing and storing data in a way that enables efficient acces
 4. **Operations:** They define possible operations on th data they contain.
 5. **Size:** They are either flexible or fixed in size.
 6. **Access methods:** Different Data structures have different access methods.
+7. **Complexity:** Different Data structures have different time and space complexities for different operations.
 
 ## Goals of Data structures
 1. **Efficiency:** Aims to optimize operations.
