@@ -5,8 +5,8 @@ It is a way of organizing and storing data in a way that enables efficient acces
 
 ## Characteristics of Data Structure
 1. **Organization:** How data is arranged.
-2. **Storage:** stores data.
-3. **Memory Usage:** It uses memory, though it must be minimized to ensure optimized performance.
+2. **Storage:** How data is stored.
+3. **Memory Usage:** It uses memory, though it must be minimized to ensure optimal performance.
 4. **Operations:** They define possible operations on the data they contain.
 5. **Size:** They are either flexible or fixed in size.
 6. **Access methods:** Different Data structures have different access methods.
@@ -24,3 +24,13 @@ It is a way of organizing and storing data in a way that enables efficient acces
 3. **Data Operations**: Data structures provide methods for performing operations on data, such as adding, removing, and updating data or groups of data.
 4. **Manage Data Volume**: They offer ways to handle varying amounts of data efficiently, accommodating growth and changes in data size.
 5. **Enhance Performance**: Data structures improve the efficiency of data operations, optimizing the performance of algorithms and applications.
+
+## Basic Terminologies
+
+- **Data**: Elementary value or collection of values.
+- **Group Items**: Data items that have subordinate data items. For example, a student’s name can have first and last name.
+- **Record**: Collection of various data items grouped together.
+- **File**: A collection of various records of one type of entity.
+- **Attribute**: Represents a particular property of an entity.
+- **Entity**: Represents a class of certain objects and contains various attributes.
+- **Field**: A single elementary unit of information representing the attribute of an entity.
