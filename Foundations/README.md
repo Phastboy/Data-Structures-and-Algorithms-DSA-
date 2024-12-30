@@ -34,3 +34,32 @@ It is a way of organizing and storing data in a way that enables efficient acces
 - **Attribute**: Represents a particular property of an entity.
 - **Entity**: Represents a class of certain objects and contains various attributes.
 - **Field**: A single elementary unit of information representing the attribute of an entity.
+
+## Basic Factors to consider when designing a data structure 
+1. Data type 
+2. Operations required 
+3. Performance 
+4. Flexibility 
+5. Maintainability 
+
+## Classification
+
+``` mermaid
+graph TD;
+  DS --> Primitive;
+  DS --> Non-primitive;
+  P["`int
+  char
+  boolean`"]
+  Primitive --> P;
+  Non-primitive --> Linear;
+  L["`Arrays
+  Linked list 
+  Stacks 
+  Queues`"]
+  Linear --> L;
+  Non-primitive --> Non-linear;
+  NL["`trees
+  graphs`"]
+  Non-linear --> NL;
+```
