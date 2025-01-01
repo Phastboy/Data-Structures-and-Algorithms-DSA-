@@ -65,3 +65,4 @@ graph TD;
 ```
 
 ## Abstract Data Types
+*Abstraction involves simplifying complex systems by breaking them down into smaller parts and hiding the unnecessary details.*
