@@ -67,4 +67,12 @@ graph TD;
 ```
 
 ## Abstract Data Types
-*Abstraction involves simplifying complex systems by breaking them down into smaller parts and hiding the unnecessary details.*
+
+**Abstraction** involves simplifying complex systems by breaking them down into smaller parts and hiding the unnecessary details.
+
+### Characteristics 
+1. **Encapsulation:** Bundles data with method that operate on the data, and restrict direct access to some object's components.
+
+2. **Simplification:** Omits unnecessary details to ensure reduced complexity, making it easy to focus on high level operations.
+
+3. **Modularity:** Divides program into smaller, manageable, and reusable parts (modules), each responsible for a specific functionality.
