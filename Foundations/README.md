@@ -76,3 +76,11 @@ graph TD;
 2. **Simplification:** Omits unnecessary details to ensure reduced complexity, making it easy to focus on high level operations.
 
 3. **Modularity:** Divides program into smaller, manageable, and reusable parts (modules), each responsible for a specific functionality.
+
+### Advantages
+
+1. **Improve code usabilit:** Simplifies understanding of code.
+
+2. ***Enhances Maintainability:** Make codes easier to modify and extend, since changes are localized within modules.
+
+3. **Promotes Reusability:** Enables the reuse of modules in different programs without moduf.
