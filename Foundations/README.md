@@ -40,7 +40,9 @@ It is a way of organizing and storing data in a way that enables efficient acces
 2. Operations required 
 3. Performance 
 4. Flexibility 
-5. Maintainability 
+5. Maintainability
+6. Memory Usage
+7. Ease of implementation 
 
 ## Classification
 
