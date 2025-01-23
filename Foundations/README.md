@@ -63,3 +63,6 @@ graph TD;
   graphs`"]
   Non-linear --> NL;
 ```
+
+## Abstract Data Types
+*Abstraction involves simplifying complex systems by breaking them down into smaller parts and hiding the unnecessary details.*
