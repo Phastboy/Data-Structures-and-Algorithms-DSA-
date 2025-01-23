@@ -66,5 +66,39 @@ graph TD;
   Non-linear --> NL;
 ```
 
-## Abstract Data Types
-*Abstraction involves simplifying complex systems by breaking them down into smaller parts and hiding the unnecessary details.*
+## Abstraction 
+
+**Abstraction** involves simplifying complex systems by breaking them down into smaller parts and hiding the unnecessary details.
+
+### Characteristics 
+1. **Encapsulation:** Bundles data with method that operate on the data, and restrict direct access to some object's components.
+
+2. **Simplification:** Omits unnecessary details to ensure reduced complexity, making it easy to focus on high level operations.
+
+3. **Modularity:** Divides program into smaller, manageable, and reusable parts (modules), each responsible for a specific functionality.
+
+### Advantages
+
+1. **Improve code usabilit:** Simplifies understanding of code.
+
+2. ***Enhances Maintainability:** Make codes easier to modify and extend, since changes are localized within modules.
+
+3. **Promotes Reusability:** Enables the reuse of modules in different programs without modules.
+
+## Abstract Data Structures (ADS)
+
+They are theoretical models designed to define, and organize data along with operations that can be performed on the data.
+
+### Key Components 
+
+1. **Interface:** Set of operations that can be performed on the data.
+
+2. **Behavior:** How it should respond to operations without specifying the underlying mechanics.
+
+### Common Types 
+
+1. Linked list
+2. Stack
+3. Queue
+4. Tree
+5. Graph
