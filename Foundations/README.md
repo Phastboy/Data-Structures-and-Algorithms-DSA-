@@ -79,11 +79,11 @@ graph TD;
 
 ### Advantages
 
-1. **Improve code usabilit:** Simplifies understanding of code.
+1. **Improve code usability:** Simplifies understanding of code.
 
-2. ***Enhances Maintainability:** Make codes easier to modify and extend, since changes are localized within modules.
+2. **Enhances Maintainability:** Make codes easier to modify and extend, since changes are localized within modules.
 
-3. **Promotes Reusability:** Enables the reuse of modules in different programs without modules.
+3. **Promotes Reusability:** Enables the reuse of modules in different programs without modification.
 
 ## Abstract Data Structures (ADS)
 
